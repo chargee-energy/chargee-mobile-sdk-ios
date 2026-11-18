@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Chargee",
-            url: "https://github.com/chargee-energy/chargee-mobile-sdk-ios/releases/download/v0.0.23/Chargee.xcframework.zip",
-            checksum: "43ff05a444d8d0c66eb7a4490876537c02294aea2ad396738e4f5300832410ed"
+            url: "https://github.com/chargee-energy/chargee-mobile-sdk-ios/releases/download/v0.0.24/Chargee.xcframework.zip",
+            checksum: "0bf574c6b7093a1e646730bad605f470ec1401b7ed4ee18fada68a48d94514f8"
         ),
         .target(
             name: "ChargeeSDK",
